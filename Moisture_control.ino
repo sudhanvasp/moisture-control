@@ -5,9 +5,9 @@
 #include <BlynkSimpleEsp32.h>
 
 
-char auth[] = "MnamVmhu3JplYJ6955Q0ingF-NL-YaXA";
-char ssid[] = "SMPFarm2";
-char pass[] = "Bilvapriya@222";
+char auth[] = "##################";
+char ssid[] = "###########";
+char pass[] = "############";
 const float airval = 3450.0;
 const float waterval = 1540.0;
 
